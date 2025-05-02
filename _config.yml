@@ -2,7 +2,7 @@ title: Run Capybara Run
 description: A fun platformer game where you guide a clever capybara through dynamic levels filled with obstacles and surprises!
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minima
+theme: jekyll-theme-tactile
 github:
   is_project_page: true
   repository_url: https://github.com/Doewon-Studios
