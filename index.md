@@ -37,8 +37,8 @@ The visual style of Run Capybara Run is lighthearted and playful, matching the t
 
 **Level Design**: To ensure smooth gameplay and increasing difficulty, we sketched out platform placements and obstacle locations before implementing them. These sketches served as blueprints for pacing jumps, timing enemy encounters, and positioning objects for optimal player engagement.
 
-<img src="images/platforms-1.jpg" width="500">
-<img src="images/platforms-2.jpg" width="500">
+<img src="images/Platforms-1.jpg" width="500">
+<img src="images/Platforms-2.jpg" width="500">
 
 ## Further Development
 
