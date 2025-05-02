@@ -3,3 +3,6 @@ description: A fun platformer game where the user is a capybara running in a coo
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  is_project_page: true
+  repository_url: https://github.com/Doewon-Studios

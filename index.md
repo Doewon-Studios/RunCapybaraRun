@@ -40,6 +40,7 @@ The visual style of Run Capybara Run is lighthearted and playful, matching the t
 ## Team
 
 Run Capybara Run is designed and implemented by Doewon Studios
+
 (Sam Doan, Adam Winfield-Smith, and Rina Ogino).
 
 - [Sam Doan](https://github.com/samdoann)
