@@ -32,7 +32,7 @@ The visual style of Run Capybara Run is lighthearted and playful, matching the t
 
 * Storyboard Influence: Our early storyboard helped define the game's visual flow and progression. Each scene was mapped to match the capybara's journey, giving the development team a reference for level pacing, enemy placement, and player feedback cues.
 
-<img src="images/storyboard.png">
+<img src="images/storyboard.png" width="300">
 
 ## Further Development
 
