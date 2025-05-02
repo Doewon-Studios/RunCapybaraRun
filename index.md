@@ -12,9 +12,7 @@
 
 **Run Capybara Run** is a fast-paced side-scrolling platformer where you guide a clever capybara through dynamic levels filled with obstacles and surprises. With fun visuals and smooth controls, the game offers an exciting experience for casual and competitive players alike.
 
-### Objective
-
-You play as a capybara trying to escape from pursuing villains (capybara lovers). Run and jump across platforms, avoid traps, and collect mystery boxes that grant temporary hacks, hints, or power-ups. Reach the finish line without getting caught to win the game!
+Objective: You play as a capybara trying to escape from pursuing villains (capybara lovers). Run and jump across platforms, avoid traps, and collect mystery boxes that grant temporary hacks, hints, or power-ups. Reach the finish line without getting caught to win the game!
 
 ## User Guide
 
@@ -42,10 +40,21 @@ The visual style of Run Capybara Run is lighthearted and playful, matching the t
 
 ## Further Development
 
+While Run Capybara Run is fully playable in its current form, there are several exciting features we plan to explore for future updates:
+
+**Capybara Customization**: Players will be able to personalize their capybara with different hats, outfits, or accessories. This adds a fun layer of expression and player identity, especially for younger audiences or fans of collectibility.
+
+**Unlockable Wallpapers/Themes**: To enhance visual variety, we plan to add unlockable backgrounds and in-game themes. These could be tied to player achievements, seasonal events, or special challenges.
+
+**Monetization Potential**: Once a solid customization system is in place, we may experiment with a freemium model, keeping the core game free while offering premium items (e.g., exclusive skins or animated backgrounds) for a small fee. This would help support ongoing development while keeping the game accessible.
+
+**Expanded Levels & Characters**: Future builds could include new characters, power-ups, and enemy types, giving players more ways to enjoy and master the game.
+
+These additions aim to improve player retention, encourage replayability, and offer opportunities for community engagement.
+
 ## Team
 
-Run Capybara Run is designed and implemented by Doewon Studios
-(Sam Doan, Adam Winfield-Smith, and Rina Ogino).
+Run Capybara Run is designed and implemented by yours truly, Doewon Studios (Sam Doan, Adam Winfield-Smith, and Rina Ogino).
 
 - [Sam Doan](https://github.com/samdoann)
 - [Adam Winfield-Smith](https://github.com/adamwins)
@@ -59,4 +68,4 @@ Run Capybara Run is designed and implemented by Doewon Studios
 
 ## Community Feedback
 
-We are interested in your experience using Run Capybara Run! Please let us know with what you think about our game, and how we can better it.
+We are interested in your experience using Run Capybara Run! Please fill out the [Doewon Studios: Run Capybara Run Feedback form](https://forms.gle/4WWJWztNFmT46KWs7).
