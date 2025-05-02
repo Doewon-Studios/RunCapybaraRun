@@ -54,7 +54,7 @@ These additions aim to improve player retention, encourage replayability, and of
 
 ## Team
 
-Run Capybara Run is designed and implemented by yours truly, Doewon Studios (Sam Doan, Adam Winfield-Smith, and Rina Ogino).
+Run Capybara Run was developed by Doewon Studios, a creative team consisting of Sam Doan, Adam Winfield-Smith, and Rina Ogino.
 
 - [Sam Doan](https://github.com/samdoann)
 - [Adam Winfield-Smith](https://github.com/adamwins)
