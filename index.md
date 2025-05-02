@@ -10,9 +10,9 @@
 
 ## Overview
 
-**Run Capybara Run** is a fast-paced side-scrolling platformer where you guide a clever capybara through dynamic levels filled with obstacles, surprises, and collectible goodies. With charming visuals and smooth controls, the game offers an exciting experience for casual and competitive players.
+**Run Capybara Run** is a fast-paced side-scrolling platformer where you guide a clever capybara through dynamic levels filled with obstacles, surprises, and collectible goodies. With charming visuals and smooth controls, the game offers an exciting experience for players.
 
-Objective: Take control of a speedy capybara as you dash and leap across platforms, dodge tricky traps, and collect the capybara's favorite snack--yuzu! Test your skills in endless mode. How far can you make it? Give it a try!
+Objective: Take control of a speedy capybara as you dash and leap across platforms, dodge tricky traps, and collect capybara's favorite snack--yuzu! Test your skills in endless mode. How far can you make it? Give it a try!
 
 ## User Guide
 
@@ -28,7 +28,7 @@ The visual style of Run Capybara Run is lighthearted and playful, matching the t
 
 **Environment**: Platforms, backgrounds, and obstacles use a bright color palette and cartoon-like style. Scenery elements such as trees and bushes create depth.
 
-**Capy Snacks**: One of capybara's favorite fruit, yuzu, are intuitive and stand out visually, so players can quickly recognize and pick them up during the run.
+**Objects**: One of the capybara’s favorite fruits, yuzu, is designed to be visually distinctive and intuitive, allowing players to quickly recognize and collect it during the run.
 
 **Storyboard Influence**: Our early storyboard helped define the game's visual flow and progression. Each scene was mapped to match the capybara's journey, giving the development team a reference for level pacing, enemy placement, and player feedback cues.
 
