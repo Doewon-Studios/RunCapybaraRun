@@ -1,3 +1,5 @@
+<img src="images/capy-running.gif" width="500">
+
 ## Table of Contents
 
 - [Overview](#overview)
