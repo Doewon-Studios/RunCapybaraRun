@@ -1,4 +1,4 @@
-<img src="images/capy-running.gif" width="200">
+<img src="images/capy-running.gif" width="100"> <img src="images/capy-running.gif" width="100"> <img src="images/capy-running.gif" width="100">
 
 ## Table of Contents
 
