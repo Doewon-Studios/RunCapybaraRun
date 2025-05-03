@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [User Guide](#user-guide)
+- [Game Play](#game-play)
 - [Design & Illustrations](#design-and-illustrations)
 - [Further Development](#further-development)
 - [Team](#team)
@@ -14,11 +14,11 @@
 
 Objective: Take control of a speedy capybara as you dash and leap across platforms, dodge tricky traps, and collect capybara's favorite snack--yuzu! Test your skills in endless mode. How far can you make it? Give it a try!
 
-## User Guide
+## Game Play
 
 This video provides a walkthrough of Run Capybara Run.
 
-*Insert video here*
+[Run Capybara Run Demonstration](https://drive.google.com/file/d/1klL32ACbaU57uGu8MrKmEr8FeZy_ivZ0/view?usp=sharing)
 
 ## Design & Illustrations
 
